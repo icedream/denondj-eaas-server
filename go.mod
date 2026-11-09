@@ -10,7 +10,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 	github.com/lithammer/fuzzysearch v1.1.8
 	github.com/rivo/tview v0.42.0
-	github.com/stretchr/testify v1.11.1
+	github.com/stretchr/testify v1.12.1
 	golang.org/x/net v0.52.0
 	golang.org/x/text v0.35.0
 	google.golang.org/grpc v1.79.3
